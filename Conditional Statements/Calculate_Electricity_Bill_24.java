@@ -109,6 +109,6 @@ Finally ₹100 fixed charge add karo.
         }
         
         System.out.println("Total Bill: " + finalBill);
+        sc.close();
     }
 }
-

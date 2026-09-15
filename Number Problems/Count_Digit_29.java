@@ -22,13 +22,6 @@ public class Count_Digit_29 {
 }
 /*
 * 
-* 
-* 
-
-* 32. Reverse a number
-* 33. Check whether a number is a palindrome
-* 34. Find the first and last digit of a number
-* 35. Find the sum of the first and last digit
 * 36. Find the largest digit in a number
  * 37. Find the smallest digit in a number
  * 38. Count the frequency of a given digit

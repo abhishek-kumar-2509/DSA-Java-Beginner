@@ -1,4 +1,5 @@
 /* 30. Find the sum of digits of a number  */
+
 import java.util.*;
 public class Sum_Of_Digits_30 {
     public static void main(String[] args){

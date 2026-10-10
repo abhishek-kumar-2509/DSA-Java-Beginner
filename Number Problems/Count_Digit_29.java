@@ -22,9 +22,9 @@ public class Count_Digit_29 {
 }
 /*
 * 
-* 36. Find the largest digit in a number
- * 37. Find the smallest digit in a number
- * 38. Count the frequency of a given digit
+* 
+ * 
+ * 
  * 39. Find the frequency of every digit from 0 to 9
  * 40. Count the number of even and odd digits
  * 41. Find the sum of even and odd digits separately

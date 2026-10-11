@@ -21,14 +21,6 @@ public class Count_Digit_29 {
     }    
 }
 /*
-* 
-* 
- * 
- * 
- * 39. Find the frequency of every digit from 0 to 9
- * 40. Count the number of even and odd digits
- * 41. Find the sum of even and odd digits separately
- * 42. Remove all zeroes from a number
  * 43. Find the number obtained after removing the last digit
  * 44. Check whether a number contains a particular digit
  */

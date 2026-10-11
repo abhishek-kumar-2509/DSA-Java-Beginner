@@ -19,5 +19,6 @@ public class Count_Frequency_38 {
             n/=10;
         }
         System.out.print(target + " Occure "+ count  + " times");
+        sc.close();
     }
 }

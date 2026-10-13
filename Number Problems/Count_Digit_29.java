@@ -20,7 +20,3 @@ public class Count_Digit_29 {
         sc.close();
     }    
 }
-/*
- * 43. Find the number obtained after removing the last digit
- * 44. Check whether a number contains a particular digit
- */

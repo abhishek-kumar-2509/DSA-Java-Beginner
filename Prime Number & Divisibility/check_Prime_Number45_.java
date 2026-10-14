@@ -24,11 +24,13 @@ public class check_Prime_Number45_ {
         }else{
             System.out.print(n +" is Not Prime Number ");
         }
+
+        
         sc.close();
     }
 }
 /* 
-46. Print all prime numbers from 1 to N
+
 47. Print all prime numbers within a given range
 48. Count the number of prime numbers from 1 to N
 49. Find the Nth prime number

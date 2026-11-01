@@ -31,7 +31,6 @@ public class check_Prime_Number45_ {
 }
 /* 
 
-47. Print all prime numbers within a given range
 48. Count the number of prime numbers from 1 to N
 49. Find the Nth prime number
 50. Find the next prime number greater than N

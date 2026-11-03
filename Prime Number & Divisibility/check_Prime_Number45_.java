@@ -31,8 +31,6 @@ public class check_Prime_Number45_ {
 }
 /* 
 
-48. Count the number of prime numbers from 1 to N
-49. Find the Nth prime number
 50. Find the next prime number greater than N
 51. Find the previous prime number smaller than N
 52. Find all prime factors of a number
